@@ -13,4 +13,4 @@ I am passionate about programming and currently learning Python. I love learning
 - HTML and CSS (basics)
 
 ## 🌟 Projects
-- soon
+- [nukebot](https://github.com/mrthejvp6rq/nukebot)
